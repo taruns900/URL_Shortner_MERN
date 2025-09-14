@@ -1,3 +1,0 @@
-PORT=5015
-DBURL=mongodb+srv://url_shortner_69:8ri10PcryWAO55pC@cluster0.eugkfzg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-DOMAIN=localhost:5015
